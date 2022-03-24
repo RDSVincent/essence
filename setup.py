@@ -10,12 +10,12 @@ README = ""
 # This call to setup() does all the work
 setup(
     name="Prix-Carburant-FR-Client",
-    version="1.0.3",
+    version="1.0.4",
     description="StationEssence client",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/ryann72/essence",
-    author="Maxime Wantiez, Yann RITTER",
+    url="https://github.com/RDSVincent/essence",
+    author="RDSV, Maxime Wantiez, Yann RITTER",
     author_email=" ",
     license="MIT",
     packages=["prixCarburantClient"],
